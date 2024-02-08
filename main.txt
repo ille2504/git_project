@@ -1,8 +1,4 @@
-Mario
 hello
 world
 test
 again
-sky1
-mario
-blue
